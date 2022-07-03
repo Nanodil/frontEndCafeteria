@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "nombreProducto": "Galletitas de maicen",
+      "precioProducto": "25",
+      "categoria": "dulce",
+      "id": 16
+    },
+    {
+      "nombreProducto": "tortilla",
+      "precioProducto": "26",
+      "categoria": "dulce",
+      "id": 17
+    },
+    {
+      "nombreProducto": "mate",
+      "precioProducto": "2",
+      "categoria": "bebida-caliente",
+      "id": 18
+    }
+  ]
+}
