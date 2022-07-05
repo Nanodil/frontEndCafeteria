@@ -16,6 +16,7 @@ function App() {
   const [productos, setProductos] = useState([]);
   useEffect(() => {
     consultarAPI();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const consultarAPI = async () => {
